@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5fcfd0c4.js",
+    "static/media/tesla-clone.png": "/static/media/tesla-clone.63d07baf02db8c625e5b.png",
+    "static/media/prince-md-final-banner.png": "/static/media/prince-md-final-banner.d0a994ca46e16ae48050.png",
+    "static/media/aboutProfile.jpg": "/static/media/aboutProfile.b5aa967fa08ab3c72d39.jpg",
+    "index.html": "/index.html",
+    "main.5fcfd0c4.js.map": "/static/js/main.5fcfd0c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5fcfd0c4.js"
+  ]
+}
